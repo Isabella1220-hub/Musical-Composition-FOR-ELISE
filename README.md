@@ -63,5 +63,3 @@ The music was created using TunePad's Python-style coding environment, so no add
 **Original Music:** *Für Elise (Bagatelle No. 25 in A minor, WoO 59)*
 
 **Platform:** TunePad
-
-This project was created as part of my coursework to explore how programming can be used to recreate music. It helped me practise using code to control musical notes, rhythm, timing, and different instrumental parts.
