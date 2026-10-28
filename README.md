@@ -16,7 +16,7 @@ To listen to my project, follow these steps:
 4. Click the **Play** button to listen to the complete composition.
 5. You can also use the mute or solo buttons to listen to each musical part separately.
 
-**TunePad Project Link:** [Für Elise](https://github.com/Isabella1220-hub/Musical-Composition-FOR-ELISE/blob/main/README.md)]
+**TunePad Project Link:** [Für Elise](https://tunepad.com/project/129800)
 
 The three tracks have different roles:
 
